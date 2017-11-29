@@ -27,7 +27,7 @@ namespace drawStar_method
             Point BR = new Point(TL.X + size, TL.Y + size);
             Point CL = new Point(TL.X, TL.Y + size / 2);
             Point CR = new Point(TL.X + size, TL.Y + size / 2);
-            //Point BLR = new Point(B)
+            //Point BLR = new Point(B)//
 
             
             //gGraphics.DrawRectangle(drawPen, x, y, size, size);
